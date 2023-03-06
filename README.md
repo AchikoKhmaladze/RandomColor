@@ -1,1 +1,1 @@
-live link : https://khmalaa.github.io/RandomColor/
+live link : https://AchikoKhmaladze.github.io/RandomColor/
